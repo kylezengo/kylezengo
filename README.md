@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kylezengo
+👋 Hi, I’m @kylezengo
 
 <!---
 kylezengo/kylezengo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
